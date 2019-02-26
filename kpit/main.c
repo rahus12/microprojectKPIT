@@ -9,4 +9,8 @@ int main()
     b=11;
     c=a+b;
     printf("sum is = %d",c);
+    
+    printf("\nhere im just editing and commiting");
+    c=a-b;
+    printf("\ndiff is %d",c);
 }
